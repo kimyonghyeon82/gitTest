@@ -14,10 +14,9 @@
 		<li>git 명령어-git checkout</li>
 		<li>git 명령어-git merge</li>
 	</ul>
-	<ul>
-		<li>jsp</li>
-		<li>jst1</li>
-		<li>el</li>
-	</ul>
+	<p><a href="http://www.naver.com">네이버</a></p>
+	<script>
+		lovation.href="http://www.google.com";
+	</script>
 </body>
 </html>
